@@ -6,3 +6,6 @@ k8s:
 https://developer.aliyun.com/article/743581
 
 http://www.processon.com/view/link/5cb6c8a4e4b059e209fbf369
+
+清华大学开源软件镜像
+https://mirrors.tuna.tsinghua.edu.cn/
